@@ -1,5 +1,7 @@
 Bookstore Database README
+
 Overview
+
 The bookstore database is a relational database designed to manage a bookstore's operations, including books, authors, customers, orders, and related entities. This README provides instructions for setting up the database, an overview of its structure, and guidance for usage and maintenance.
 Prerequisites
 
